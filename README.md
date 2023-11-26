@@ -1,4 +1,4 @@
-# shc auto script encrypt
+## shc auto script encrypt
 
 ### installer
 ```
